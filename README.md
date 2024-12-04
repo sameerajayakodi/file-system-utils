@@ -24,4 +24,4 @@
 Install the package via npm:
 
 ```bash
-npm install file-system-utils
+npm i @sameerajayakodi/file-system-utils
