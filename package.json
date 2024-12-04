@@ -1,0 +1,43 @@
+{
+  "name": "@sameerajayakodi/file-system-utils",
+  "version": "1.0.0",
+  "description": "The File System Utils project focuses on simplifying file and folder management through a suite of utilities that provide seamless interactions with file systems. Designed to improve productivity and convenience, the tool offers a range of features, including file organization, metadata retrieval, and streamlined directory operations. This project aims to cater to developers and tech enthusiasts looking for efficient ways to manage their file systems programmatically.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/test.js",
+    "demo": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameerajayakodi/file-system-utils.git"
+  },
+  "keywords": [
+    "file",
+    "system",
+    "utilities",
+    "file",
+    "management",
+    "folder",
+    "operations",
+    "file",
+    "metadata",
+    "directory",
+    "management",
+    "file",
+    "organization",
+    "JavaScript",
+    "Node.js",
+    "npm",
+    "package"
+  ],
+  "type": "module",
+  "author": "Sameera Jayakodi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameerajayakodi/file-system-utils/issues"
+  },
+  "homepage": "https://github.com/sameerajayakodi/file-system-utils#readme"
+}
